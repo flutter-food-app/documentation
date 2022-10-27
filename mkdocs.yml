@@ -1,0 +1,22 @@
+site_name: Food App
+
+theme:
+  name: material
+  features: navigation.tabs
+  pallete:
+    primary: red
+
+markdown_extensions:
+  - attr_list
+
+nav:
+  - Home: "index.md"
+  - UX Docs:
+    - Style Guide: "ux/style_guide.md"
+    - Low Fidelity Prototype: "ux/low_fidelity_prototype.md"
+    - High Fidelity Prototype: "ux/high_fidelity_prototype.md"
+  - Frontend:
+    - Project Architecture: "front/front_architecture.md"
+  - Backend:
+    - Project Architecture: "back/back_architecture.md"
+
