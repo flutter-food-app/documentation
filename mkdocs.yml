@@ -15,8 +15,7 @@ nav:
     - Style Guide: "ux/style_guide.md"
     - Low Fidelity Prototype: "ux/low_fidelity_prototype.md"
     - High Fidelity Prototype: "ux/high_fidelity_prototype.md"
-  - Frontend:
-    - Project Architecture: "front/front_architecture.md"
-  - Backend:
-    - Project Architecture: "back/back_architecture.md"
+  - Backlog: "backlog.md"
+  - Modelagem:
+    - Diagrama de Pacotes: "modelage/diagrama_pacotes.md"
 
